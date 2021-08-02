@@ -37,6 +37,12 @@ html, body {
     width: 90%;
 }
 
+#card div {
+    display: grid;
+    grid-template-columns: auto;
+}
+
+
 #tipSelection div {
     display: grid;
     grid-template-columns: auto auto auto;
