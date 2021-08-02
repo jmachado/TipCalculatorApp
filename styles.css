@@ -33,7 +33,15 @@ html, body {
     background-color: aqua;
 }
 
+.form-group .form-control {
+    width: 90%;
+}
 
+#tipSelection div {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 90%;
+}
 
 .attribution { 
     font-size: 11px; 
